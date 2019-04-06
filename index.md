@@ -1,3 +1,8 @@
+---
+title: Brilliant Challenges
+description: Collection of Daily Challenges from Brilliant.org
+---
+
 ## 2019
 
 ### April
