@@ -1,6 +1,7 @@
 # [2019-04-05] Thousands of Candies
 
 [Home](../README.md)
+
 [Original Posting](https://brilliant.org/daily-problems/candy-mix/)
 
 * Jar `A` starts with `400 red` candies
