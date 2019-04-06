@@ -1,0 +1,19 @@
+---
+---
+
+@import '{{ site.theme }}';
+
+header#page-header > a {
+	color: white;
+	text-decoration: underline;
+
+	transition: all 150ms ease;
+
+	&:not(:first-child) {
+		margin-left: 10px;
+	}
+
+	&:hover {
+		text-shadow: 2px 2px 8px black;
+	}
+}

@@ -1,7 +1,3 @@
----
-title: Brilliant Challenges
-is_home: true
----
 ## 2019
 
 ### April

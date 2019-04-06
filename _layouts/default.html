@@ -15,11 +15,8 @@
 
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
-      {% if page.is_home == null %}
-        <a href="/">Home</a>
-      {% endif %}
-
       {% if page.challenge_url != null %}
+        <a href="/">Home</a>
         <a href="{{ page.challenge_url }}">Challenge Post</a>
       {% endif %}
     </header>
