@@ -10,7 +10,7 @@ if [ ! -d "$YEAR" ]; then
 	mkdir $YEAR
 fi
 
-TEMP="template.md"
+TEMP="template"
 FILE="$YEAR/$DATE-$TITLE.md"
 
 # Check if file already exists
