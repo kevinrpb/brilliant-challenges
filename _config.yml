@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: Brilliant Challenges
+description: ''
+author: Kevin Romero Peces-Barba <kevinrpb@hotmail.com>
+github:
+  is_project_page: false
+  zip_url: ''
+  tar_url: ''
+show_downloads: false

@@ -1,4 +1,8 @@
-# [2019-04-05] Thousands of Candies
+---
+title: "Thousands of Candies"
+description: "2019-04-05"
+date: 2019-04-05
+---
 
 [Home](../README.md)
 

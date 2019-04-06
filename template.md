@@ -1,4 +1,8 @@
-# [YYYY-MM-DD] TITLE
+---
+title: "TITLE"
+description: "YYYY-MM-DD"
+date: YYYY-MM-DD
+---
 
 [Home](../README.md)
 
