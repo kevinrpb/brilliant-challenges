@@ -3,7 +3,7 @@
 YEAR=`date +%Y`
 DATE=`date +%Y-%m-%d`
 TITLE=$1
-TITLE=${TITLE// /_}
+TITLE=${TITLE// /-}
 
 
 if [ ! -d "$YEAR" ]; then
