@@ -1,5 +1,6 @@
-# Brilliant.org daily challenges
-
+---
+is_home: true
+---
 ## 2019
 
 ### April

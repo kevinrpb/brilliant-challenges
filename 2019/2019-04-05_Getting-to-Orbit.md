@@ -2,11 +2,8 @@
 title: "Getting To Orbit"
 description: "2019-04-05"
 date: 2019-04-05
+challenge_url: https://brilliant.org/daily-problems/falcon-heavy-3/
 ---
-
-[Home](../README.md)
-
-[Original Posting](https://brilliant.org/daily-problems/falcon-heavy-3/)
 
 We start with the next info:
 

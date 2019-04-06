@@ -2,11 +2,8 @@
 title: "Thousands of Candies"
 description: "2019-04-05"
 date: 2019-04-05
+challenge_url: https://brilliant.org/daily-problems/candy-mix/
 ---
-
-[Home](../README.md)
-
-[Original Posting](https://brilliant.org/daily-problems/candy-mix/)
 
 * Jar `A` starts with `400 red` candies
 * Jar `B` starts with `200 green` candies
