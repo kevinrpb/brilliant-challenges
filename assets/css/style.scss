@@ -17,3 +17,15 @@ header.page-header > a {
 		text-shadow: 2px 2px 8px black;
 	}
 }
+
+@media screen and (max-width: 64em) and (min-width: 42em) {
+	.page-header {
+		padding: 1.3rem 4rem;
+	}
+}
+
+@media screen and (min-width: 64em) {
+	.page-header {
+		padding: 2rem 6rem;
+	}
+}
